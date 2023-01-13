@@ -3,7 +3,7 @@
 <h3 align="center">A Learner Exploring Programming</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayeesrather99" alt="rayeesrather99" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayeesrather99" alt="rayeesrather99" /></a> </p> -->
 
 - 🌱 I’m currently learning **Java,javascript.**
 
