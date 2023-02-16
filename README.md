@@ -1,4 +1,3 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Rayees Rather</h1>
 <h3 align="center">A Learner Exploring Programming</h3>
 <p align="left"> <a href="https://twitter.com/rayeesrather15" target="blank"><img src="https://img.shields.io/twitter/follow/rayeesrather15?logo=twitter&style=for-the-badge" alt="rayeesrather15" /></a> </p>
