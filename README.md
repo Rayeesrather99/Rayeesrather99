@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java,javascript.**
 
-- 👨‍💻 All of my projects are available at [http://rayees.co/]([http://rayees.co/](https://rayeesrather99.github.io/personalwebsite/))
+- 👨‍💻 All of my projects are available at https://rayeesrather99.github.io/personalwebsite/
 
 - 💬 Ask me about **Html, css ,Java, javascript**
 
